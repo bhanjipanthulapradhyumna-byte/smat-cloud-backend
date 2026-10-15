@@ -1,0 +1,9 @@
+AMORIA FONT — PERSONAL-USE NOTICE
+
+The supplied font Read Me identifies this as a demo font for PERSONAL USE ONLY and states NO COMMERCIAL USE ALLOWED.
+
+The user confirmed that this SMAT project is personal and non-commercial. Do not use this font in commercial work unless you obtain the full commercial/webfont license from the font creator.
+
+Font family: AMORIA
+Original supplied asset: AMORIA OTF
+Web delivery asset: amoria.woff2 (converted for browser delivery)

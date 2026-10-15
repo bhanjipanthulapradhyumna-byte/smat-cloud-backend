@@ -1,0 +1,8 @@
+{
+  "name": "smat-octave-workbench",
+  "version": "2.0.0",
+  "private": true,
+  "description": "SMAT browser workspace with local GNU Octave execution bridge",
+  "scripts": {"start": "node server.js"},
+  "engines": {"node": ">=18"}
+}

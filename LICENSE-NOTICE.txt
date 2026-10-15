@@ -1,0 +1,1 @@
+SMAT is an independent project and is not affiliated with or endorsed by MathWorks. MATLAB is a trademark of its respective owner. This starter includes an original browser-based subset of MATLAB-style numerical scripting.
